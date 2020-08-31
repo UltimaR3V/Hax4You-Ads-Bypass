@@ -1,0 +1,11 @@
+## cli.exe
+https://www.virustotal.com/gui/file/a48a2ee1f7192ac772758d1280b81e2831dc01c96d0cbadc9f50db20837c5754/detection
+
+## Hax4You Ads Bypass.exe
+https://www.virustotal.com/gui/file/58f382f7b6088abdeaa7b1efafd2554f348c0a0b64db9e5713c00d181da5dce8/detection
+
+
+PS:
+
+ALL THE BINARIES ARE PACKED, THATS WHY THESE FILES ARE BEING TAGGED AS MALICIOUS.
+THESE DETECTIONS ARE ALL FALSE POSITIVE.
